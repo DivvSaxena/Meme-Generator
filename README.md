@@ -34,7 +34,7 @@ To get started with the Meme-generator Web App, follow these steps:
 4. Start the development server:
 
    ```
-   npm start
+   npm run dev
    ```
 
 5. Open your web browser 
