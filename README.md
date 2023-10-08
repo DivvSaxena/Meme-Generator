@@ -49,6 +49,6 @@ If you'd like to contribute to this project or report any issues, please feel fr
 
 ## Share Your Memes
 
-I'd love to see the memes you create using this project! Feel free to share your hilarious creations with me. You can reach out to me at [your-email@example.com](mailto:your-email@example.com) or through the project's GitHub repository.
+I'd love to see the memes you create using this project! Feel free to share your hilarious creations with me. You can reach out to me at [your-email@example.com](mailto:saxenadivv@gmail.com) or through the project's GitHub repository.
 
 Enjoy using the Meme-generator Web App, and have fun creating and sharing memes! 🎉
