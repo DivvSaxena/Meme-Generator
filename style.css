@@ -32,6 +32,22 @@
     font-size: 3rem;
   }
 }
+@media(max-width:380px){
+  *{
+    max-width: 370px;
+  }
+  #header-this-image{
+    width: 70px;
+    height: 65px;
+  }
+  #form--input{
+    display: block;
+    width: 100%;
+  }
+  #header-this{
+    text-align: center;
+  }
+}
 
 body {
   font-family: "Karla", sans-serif;
