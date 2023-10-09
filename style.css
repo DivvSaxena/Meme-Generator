@@ -16,11 +16,15 @@
     height: 85px;
   }
   .meme--image{
-    margin-left:28em;
     width: 500px;
     /* position: absolute;
     left: 0;
     right: 0; */
+  }
+  .meme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   /* .form--button{
     position: relative;
